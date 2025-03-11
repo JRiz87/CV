@@ -41,7 +41,7 @@ td {
 .left-image {
     width: 25%;
     height: 120vh;
-    background-image: url("id_pic-removebg2-removebg-preview-removebg-preview.png"); /* Path to your left-aligned image */
+    background-image: url("id.png"); /* Path to your left-aligned image */
     background-size: cover;
     background-position: left;
 }
